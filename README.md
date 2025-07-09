@@ -48,10 +48,10 @@ Install Python 3.x and pip.
 
 ## 🖥️ Project Structure
 │
-├── Project.py # Main Python script\n
-├── AI-Data.csv # Dataset file (place here)\n
-├── requirements.txt # Python dependencies\n
-├── README.md # Project documentation\n
+├── Project.py # Main Python script
+├── AI-Data.csv # Dataset file (place here)
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
 └── StudentPP.ipynb
 
 
