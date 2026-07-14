@@ -78,4 +78,3 @@ The model pipeline includes:
 5. Model deployment using Flask API and Docker
 
 ## Contributors
-- [Priyanshu Kumar Singh](https://github.com/Priyanshu1303d)
